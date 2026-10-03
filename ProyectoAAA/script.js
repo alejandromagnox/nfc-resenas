@@ -5,7 +5,7 @@ const negocios = {
         direccion: "Cnel. Moldes 23, Salta",
 
         google:
-            "https://www.google.com/search?hl=es-AR&gl=ar&q=METR%C3%93POLIS+DEL+REY,+Cnel.+Moldes+23,+A4400+Salta&ludocid=2652833828401927219&lsig=AB86z5VBYilbvCbuuN85PK8F0EYT#lrd=0x941bc30052e2fa1f:0x24d0c24fc6095433,3"
+            "https://search.google.com/local/writereview?placeid=ChIJfwrZP7nDG5QRAySsmmWmL24"
     },
 
     ejemplo: {
